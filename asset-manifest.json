@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-5-phonebook-rtkstate/static/css/main.b9f56b2a.css",
+    "main.js": "/react-5-phonebook-rtkstate/static/js/main.aec64aa9.js",
+    "static/js/787.77b85d80.chunk.js": "/react-5-phonebook-rtkstate/static/js/787.77b85d80.chunk.js",
+    "index.html": "/react-5-phonebook-rtkstate/index.html",
+    "main.b9f56b2a.css.map": "/react-5-phonebook-rtkstate/static/css/main.b9f56b2a.css.map",
+    "main.aec64aa9.js.map": "/react-5-phonebook-rtkstate/static/js/main.aec64aa9.js.map",
+    "787.77b85d80.chunk.js.map": "/react-5-phonebook-rtkstate/static/js/787.77b85d80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f56b2a.css",
+    "static/js/main.aec64aa9.js"
+  ]
+}
